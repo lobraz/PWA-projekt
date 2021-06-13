@@ -118,13 +118,13 @@
       <hr>
       <div class="ff">
         <div class="kontakt">
-          <p>Kontakt: imadarcic@tvz.hr</p>
+          <p>Kontakt: lobraz@tvz.hr</p>
         </div>
         <div class="ime">
-          <p>Ivan Mađarčić Šoštarić</p>
+          <p>Leonard Obraz</p>
         </div>
         <div class="napravljeno">
-          <p>Napravljeno: 2021</p>
+          <p>Napravljeno: 06/2021</p>
         </div>
       </div>
     </div>
